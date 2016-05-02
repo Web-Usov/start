@@ -1,0 +1,61 @@
+html{
+	min-height: 100%;
+}
+body{
+	margin: 0;
+	padding: 0;
+  background: #fff;
+  padding: 0;
+  margin: 0;
+  font-weight: normal;
+  font-size: 16px;
+  width: 100%;
+  line-height: 1.6;
+  overflow-x:hidden;
+  overflow-y: auto;
+}
+body input:focus:required:invalid,
+body textarea:focus:required:invalid {
+  color: red; }
+body input:required:valid,
+body textarea:required:valid {
+  color: green; }
+a{
+  color: #57B2EC;
+  transition: all 300ms;
+  text-decoration: none;
+}
+a:hover{
+  color: #448FBE;
+  transition: all 300ms;
+  text-decoration: underline;
+}
+a:active{
+  color: #9CCAE7;
+  transition: none;
+}
+a:focus{
+  color: #9CCAE7;
+}
+a::before, a::after{
+  transition: all 300ms;
+}
+a.btn{  
+  text-decoration: none;
+}
+p{
+  text-indent: 20px;
+}
+img{
+  max-width: 100%;
+  height: auto;
+}
+hr{
+  border:0;
+  border-top: dotted 2px #CFCFCF; 
+  height: 0; 
+  margin: 5px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+}
