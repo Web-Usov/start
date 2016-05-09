@@ -7,7 +7,7 @@
   - main.css - основные подключаемые стили
   - media.css - стили для media запросов 
   - normalize.css - оптимизированные теги html + адаптивгая сетка (за основу взяты некоторые стили из bootstrap)
-- библиотеки js:
+- плагины:
   - jquery - v1.11.2
   - plugins-scroll - плавный скроллинг в Chrome
   - [imagesloaded](http://imagesloaded.desandro.com/) - работа скрипта после загрузки изображений
@@ -16,6 +16,7 @@
   - [Magnific-Popup](http://dimsemenov.com/plugins/magnific-popup/) - всевозможные модальные блоки (+ галлерея)
   - [jquery-pjax](https://github.com/defunkt/jquery-pjax) - обновление лишь динамического контента
 - шрифты:
+  - Comfortaa
   - шрифтовые иконки Font Awesome
 - favicon
 
