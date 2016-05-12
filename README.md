@@ -20,8 +20,9 @@
   - шрифтовые иконки Font Awesome
 - favicon
 
-## Новая сборка
-* Версия 0.2 - [Скачать](https://github.com/Web-Usov/start_html/archive/v0.2.zip)
+## Последняя сборка
+* Версия 0.3 - [Скачать](https://github.com/Web-Usov/start_html/archive/v0.3.zip)
 
 #### Старые версии:
-* [Скачать - v0.1](https://github.com/Web-Usov/start_html/archive/v0.1.zip)
+* Версия 0.2 - [Скачать](https://github.com/Web-Usov/start_html/archive/v0.2.zip)
+* Версия 0.1 - [Скачать](https://github.com/Web-Usov/start_html/archive/v0.1.zip)
