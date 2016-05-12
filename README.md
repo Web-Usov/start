@@ -16,7 +16,7 @@
   - [Magnific-Popup](http://dimsemenov.com/plugins/magnific-popup/) - всевозможные модальные блоки (+ галлерея)
   - [jquery-pjax](https://github.com/defunkt/jquery-pjax) - обновление лишь динамического контента
 - шрифты:
-  - Comfortaa
+  - Exo 2
   - шрифтовые иконки Font Awesome
 - favicon
 
